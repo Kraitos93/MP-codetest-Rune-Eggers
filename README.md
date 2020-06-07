@@ -74,3 +74,6 @@ numbers going from 0 to 14
 * A few words on what is fixed, refactored and why the code ended up looking as it does in
 the end
 * Finally we don't expect you to spend a whole or several days on this, but feel free to put in an effort and share something you feel proud of!
+
+### Important
+The solution requires a local RabbitMQ installation to run.
