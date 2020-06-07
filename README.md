@@ -76,5 +76,5 @@ the end
 * Finally we don't expect you to spend a whole or several days on this, but feel free to put in an effort and share something you feel proud of!
 
 ### Important
-The solution requires a local RabbitMQ installation to run. Run the consumer program while using the Logger.
-For testing, run the TestConsumer.
+The solution requires a local RabbitMQ installation to run. Run the Consumer program while using the Logger application.
+For testing, run the TestConsumer program.
